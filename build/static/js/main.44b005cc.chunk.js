@@ -1,0 +1,2 @@
+(this.webpackJsonplightdark=this.webpackJsonplightdark||[]).push([[0],{10:function(t,e,n){},4:function(t,e,n){"use strict";n.r(e);var r=n(2),c=(n(1),n(3)),i=n.n(c);n(10);function s(){return Object(r.jsx)("h1",{children:"Hello Testing!"})}i.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.44b005cc.chunk.js.map
